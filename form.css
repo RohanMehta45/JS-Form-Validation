@@ -1,0 +1,27 @@
+p {
+    color: red;
+}
+
+span {
+    color: green;
+}
+
+#ppout {
+    height: 10px;
+    width: 100%;
+    /* background-color: red; */
+    display: none;
+}
+
+.move {
+    position: absolute;
+    margin-left: 513px;
+    margin-top: 33px;
+}
+
+.btnposition {
+    position: absolute;
+    margin-left: -595px;
+    margin-top: 220px;
+    padding: 14px 22px;
+}
